@@ -5999,6 +5999,33 @@
       "age": 994.3545545377854,
       "description": "Noisome cat singular fainted ululate accursed hideous loathsome. Accursed antiquarian shunned loathsome eldritch squamous immemorial. Blasphemous iridescence loathsome eldritch noisome unutterable immemorial fungus. Unutterable stench madness gibbering eldritch antediluvian unmentionable.",
       "id": 1000
+    },
+    {
+      "name": "Mike Wasowski",
+      "age": 26,
+      "description": "little green monster",
+      "id": 1001
+    },
+    {
+      "id": 1002
+    },
+    {
+      "name": "Sully",
+      "age": "21907567",
+      "description": "large blue monster",
+      "id": 1003
+    },
+    {
+      "name": "Bogeyman",
+      "age": "284964.298159682964892",
+      "description": "The worst ever.",
+      "id": 1004
+    },
+    {
+      "name": "Monster under the bed",
+      "age": "291048",
+      "description": "baheioawfnlkan",
+      "id": 1005
     }
   ]
 }
